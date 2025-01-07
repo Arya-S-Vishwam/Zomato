@@ -27,7 +27,7 @@ function zomato() {
                         <div className='first_upper_rightside'>
                             <p className='menus_first_section'>Investor Relations</p>
                             <p className='menus_first_section'>Add Restaurant</p>
-                            <p className='menus_first_section'>login</p>
+                            <p className='menus_first_section'>Login</p>
                             <p className='menus_first_section'>Sign up</p>
 
                         </div>
